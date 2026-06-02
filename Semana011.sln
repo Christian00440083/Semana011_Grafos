@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana011", "Semana011.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo_NP_ND", "..\Grafo_NP_ND\Grafo_NP_ND.csproj", "{834E4219-83EF-4787-B313-199B96687AA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_red_social", "..\Mini_red_social\Mini_red_social.csproj", "{A355F656-8724-4400-9D13-F8F6D4DE123D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{834E4219-83EF-4787-B313-199B96687AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{834E4219-83EF-4787-B313-199B96687AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{834E4219-83EF-4787-B313-199B96687AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A355F656-8724-4400-9D13-F8F6D4DE123D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A355F656-8724-4400-9D13-F8F6D4DE123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A355F656-8724-4400-9D13-F8F6D4DE123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A355F656-8724-4400-9D13-F8F6D4DE123D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
