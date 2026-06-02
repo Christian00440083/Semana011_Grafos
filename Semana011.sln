@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana011", "Semana011.csproj", "{662AD4B1-37C8-43B5-921C-F5C808AF3BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo_NP_ND", "..\Grafo_NP_ND\Grafo_NP_ND.csproj", "{834E4219-83EF-4787-B313-199B96687AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662AD4B1-37C8-43B5-921C-F5C808AF3BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662AD4B1-37C8-43B5-921C-F5C808AF3BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662AD4B1-37C8-43B5-921C-F5C808AF3BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662AD4B1-37C8-43B5-921C-F5C808AF3BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834E4219-83EF-4787-B313-199B96687AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834E4219-83EF-4787-B313-199B96687AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834E4219-83EF-4787-B313-199B96687AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834E4219-83EF-4787-B313-199B96687AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F73DEF-8FAC-48FA-B864-3075ED860EA8}
+	EndGlobalSection
+EndGlobal
